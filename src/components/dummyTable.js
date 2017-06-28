@@ -11,34 +11,5 @@ function Mapping (tabsArray) {
 return Arr;
 }
 var stringArray = Mapping(tabs);
-// class DummyTable extends Component {
-//   render() {
-//       return кугe
-//           <table><tr><td>Dummy</td><td>DummyTable</td></tr></table>
-//       )
-// }
-// }
-// class DummyChart extends Component {
-//     render() {
-//         return (
-//             <table><tr><td>Title</td><td>DummyChart</td></tr></table>
-//         )
-//     }
-// }
-// class DummyList extends Component {
-//     render() {
-//         return (
-//             <table><tr><td>Title</td><td>DummyList</td></tr></table>
-//         )
-//     }
-// }
-// class LastFolder extends Component {
-//     render() {
-//         return (
-//             <table><tr><td>Title</td><td>LastFolder</td></tr></table>
-//         )
-//     }
-// }
-// const compArray = [DummyList,DummyTable,DummyChart,LastFolder];
 export default stringArray
 
